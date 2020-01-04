@@ -1,0 +1,1 @@
+This is a CUDA program which counts the word number in text using MapReduce
